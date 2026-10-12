@@ -1,0 +1,6 @@
+{
+  "name": "Caffé Nexus CRM",
+  "description": "Plataforma executiva de CRM, inteligência comercial, gestão de vendas e funil B2B para Caffé Nexus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
